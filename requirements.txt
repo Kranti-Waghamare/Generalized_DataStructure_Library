@@ -1,0 +1,51 @@
+# GENERALIZED DATA STRUCTURES LIBRARY IN C++
+
+1. REQUIREMENTS
+
+---
+
+* Operating System: Windows / Linux / macOS
+* Programming Language: C++
+* Compiler: GCC / G++
+* C++ Version: C++11 or later
+* Recommended IDE: Visual Studio Code
+* C/C++ Extension for VS Code
+
+No external libraries or packages are required.
+
+2. HOW TO COMPILE
+
+---
+
+Open the terminal in the project folder and run:
+
+g++ GeneralizedDataStructures.cpp -o GeneralizedDataStructures
+
+3. HOW TO RUN
+
+---
+
+Windows:
+
+myexe.exe
+
+Linux / macOS:
+
+./DataStructure_Library
+
+4. PROJECT FILE
+
+---
+
+Main Source File:
+
+DataStructure_Library.cpp
+
+5. NOTE
+
+---
+
+* G++ compiler must be installed.
+* No database or external software is required.
+* The project uses C++ Generic Programming (Templates).
+  ==================================================
